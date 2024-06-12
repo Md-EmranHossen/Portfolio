@@ -82,7 +82,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/348347417_245931244754071_8751832192304428398_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGe8Pda0UWctuSJ2OnK92Hi4yrHp9va-97jKsen29r73ujU2PBNaRR8sCpEAkUtFIM5J3pyAd4szn33rT_hPLzg&_nc_ohc=4ln8Gs5_lrIQ7kNvgFgDxeS&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYAOtk0q_rKfvBo_bjtBNIwZZVK44zWcGIXC8-cu7WirIA&oe=66665385",
+    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/348347417_245931244754071_8751832192304428398_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGe8Pda0UWctuSJ2OnK92Hi4yrHp9va-97jKsen29r73ujU2PBNaRR8sCpEAkUtFIM5J3pyAd4szn33rT_hPLzg&_nc_ohc=bKMmsSgi-MIQ7kNvgFxfeEx&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYBOACDqsjphyCoxrEORg3S-Gyc9l4kkSqyrj3Tn56G4HQ&oe=666F55C5",
     role: "Executive Committee Member",
     company: "BUBT IT CLUB",
     date: "Dec 2022 - August 2023",
@@ -95,7 +95,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-6/241052753_1576929135986236_8434002761976693838_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF4-4s0t55LSDS8SrL1uret9oUPGJaVq6v2hQ8YlpWrq4a5rmC6s7b1CqnJmGXJV4fbh6bTpN7BEXFooFCl9Sff&_nc_ohc=Qj914P6wy10Q7kNvgEgNZx_&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYBR7eQpTgbyc6zjEX48YUCCvTntbAsYhX927TBVh3IPuw&oe=6666498C",
+    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/241052753_1576929135986236_8434002761976693838_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF4-4s0t55LSDS8SrL1uret9oUPGJaVq6v2hQ8YlpWrq4a5rmC6s7b1CqnJmGXJV4fbh6bTpN7BEXFooFCl9Sff&_nc_ohc=4hAMghoIyowQ7kNvgFm8ruG&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYBTg2x87BauDqEubAknVFdvolgaMBDDuFq4XztFz9MdqA&oe=666F790A",
     role: "President",
     company: "Shanti Songho",
     date: "Jan 2015 - April 2020",
