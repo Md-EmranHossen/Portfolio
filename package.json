@@ -1,7 +1,7 @@
 {
   "name": "emran-hossen-portfolio",
   "version": "0.1.0",
-  "homepage": " https://md-emranhossen.github.io",
+  "homepage": " https://github.com/Md-EmranHossen/Portfolio-Youtube",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
