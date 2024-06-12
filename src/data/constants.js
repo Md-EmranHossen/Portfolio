@@ -17,13 +17,47 @@ export const Bio = {
 };
 
 
+
+export const achievements = [
+  {
+    title: "Google Summer of Code 2023",
+    description: "Selected as a participant in Google Summer of Code 2023, contributing to the development of an open-source project.",
+  },
+  {
+    title: "ACM ICPC Regional Qualifier",
+    description: "Advanced to the Regional Qualifier round of the ACM International Collegiate Programming Contest.",
+  },
+  {
+    title: "Hackathon Winner",
+    description: "Won first place in the [Hackathon Name] hackathon, developing a solution for [problem statement].",
+  },
+];
+
+
+
+
+
+
 export const skills = [
   {
-    title: "Frontend",
+    title: "Problem Solving",
     skills: [
       {
-        name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
+        name: "Code Forces",
+        image: "https://media.licdn.com/dms/image/D562DAQGdwkAUDUntrg/profile-treasury-image-shrink_1920_1920/0/1710181347331?e=1718816400&v=beta&t=NvJLO6UytJcJZdYUGerSejWEqoRTuLmOLKkQwa-MW7Q",
+      },
+      {
+        name: "Leet Code",
+        image: "https://leetcode.com/static/images/LeetCode_logo_rvs.png",
+      },
+      {
+        name: "Atcoder",
+        image: "https://img.atcoder.jp/assets/atcoder.png",
+      },
+
+      {
+        name: "Codechef",
+        image: "https://i.pinimg.com/474x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg",
       },
     ],
   },
@@ -151,8 +185,8 @@ export const projects = [
       "https://github.com/Md-EmranHossen/Chat-Application/blob/main/src/Output.png?raw=true",
     tags: ["Java", "Soket"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    github: "https://github.com/Md-EmranHossen/Chat-Application",
+    webapp: "https://github.com/Md-EmranHossen/Chat-Application",
   },
   
     
@@ -166,8 +200,8 @@ export const projects = [
       "https://github.com/Md-EmranHossen/Projects/blob/main/09.Face%20Recognition%20with%20Real-Time%20Database/face.png?raw=true",
     tags: ["Python", "Open CV","Firebase"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/Md-EmranHossen/Projects/tree/main/09.Face%20Recognition%20with%20Real-Time%20Database",
+    webapp: "https://github.com/Md-EmranHossen/Projects/tree/main/09.Face%20Recognition%20with%20Real-Time%20Database",
   },
 ];
 
