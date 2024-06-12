@@ -51,8 +51,10 @@ export const skills = [
         image: "https://leetcode.com/static/images/LeetCode_logo_rvs.png",
       },
       {
+       
         name: "Atcoder",
         image: "https://img.atcoder.jp/assets/atcoder.png",
+        
       },
 
       {
@@ -62,41 +64,32 @@ export const skills = [
     ],
   },
   {
-    title: "Backend",
+    title: "Languages",
     skills: [
       {
-        name: "Python",
+        name: " C/C++",
+        image:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+      },
+      {
+        name: "C#",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+          "https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png",
       },
       {
         name: "MySQL",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+          "https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png",
       },
     ],
   },
-  {
-    title: "Android",
-    skills: [
-      {
-        name: "Java",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-      },
-    ],
-  },
+
   {
     title: "Others",
     skills: [
       {
         name: "Git",
         image:
-          "https://git-scm.com/images/logo@2x.png",
+          "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
       },
       {
         name: "GitHub",
@@ -104,11 +97,24 @@ export const skills = [
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       {
+        name: "Typing - 64 WPM",
+        image:
+          "https://pbs.twimg.com/card_img/1799523714293276673/A9pN2MvT?format=jpg&name=900x900",
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
-    
+      {
+        name: "Sublime Text",
+        image:
+          "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Sublime_Text_3_logo.png/225px-Sublime_Text_3_logo.png",
+      },
+      {
+        name: "Firebase",
+        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
     
     ],
   },
@@ -125,7 +131,8 @@ export const experiences = [
       "TeamWork",
       "Volunterring",
     ],
-    //doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+    //doc: "https://github.com/Md-EmranHossen",
+
   },
   {
     id: 1,
