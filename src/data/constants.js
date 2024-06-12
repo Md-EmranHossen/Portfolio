@@ -82,7 +82,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/348347417_245931244754071_8751832192304428398_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGe8Pda0UWctuSJ2OnK92Hi4yrHp9va-97jKsen29r73ujU2PBNaRR8sCpEAkUtFIM5J3pyAd4szn33rT_hPLzg&_nc_ohc=bKMmsSgi-MIQ7kNvgFxfeEx&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYBOACDqsjphyCoxrEORg3S-Gyc9l4kkSqyrj3Tn56G4HQ&oe=666F55C5",
+    img: "https://cse.bubt.edu.bd/static/images/bg/it.jpg",
     role: "Executive Committee Member",
     company: "BUBT IT CLUB",
     date: "Dec 2022 - August 2023",
