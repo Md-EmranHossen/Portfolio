@@ -82,7 +82,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://cse.bubt.edu.bd/static/images/bg/it.jpg",
+    img: "https://github.com/Md-EmranHossen/Portfolio/blob/main/src/images/it.jpg?raw=true",
     role: "Executive Committee Member",
     company: "BUBT IT CLUB",
     date: "Dec 2022 - August 2023",
