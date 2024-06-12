@@ -82,7 +82,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://scontent.fzyl1-1.fna.fbhttps://github.com/Md-EmranHossen/Portfolio/blob/main/src/images/ITClub.jpg?raw=truecdn.net/v/t39.30808-1/348347417_245931244754071_8751832192304428398_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGe8Pda0UWctuSJ2OnK92Hi4yrHp9va-97jKsen29r73ujU2PBNaRR8sCpEAkUtFIM5J3pyAd4szn33rT_hPLzg&_nc_ohc=4ln8Gs5_lrIQ7kNvgFgDxeS&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYAOtk0q_rKfvBo_bjtBNIwZZVK44zWcGIXC8-cu7WirIA&oe=66665385",
+    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/348347417_245931244754071_8751832192304428398_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGe8Pda0UWctuSJ2OnK92Hi4yrHp9va-97jKsen29r73ujU2PBNaRR8sCpEAkUtFIM5J3pyAd4szn33rT_hPLzg&_nc_ohc=bKMmsSgi-MIQ7kNvgFxfeEx&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYCcm6pWRk3B1J_-AWogxqD-lvWPNyiDT-HpiAJJAUF4yA&oe=666F8E05",
     role: "Executive Committee Member",
     company: "BUBT IT CLUB",
     date: "Dec 2022 - August 2023",
@@ -95,7 +95,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://sconthttps://github.com/Md-EmranHossen/Portfolio/blob/main/src/images/ShantoSongho.jpg?raw=trueent.fzyl1-1.fna.fbcdn.net/v/t39.30808-6/241052753_1576929135986236_8434002761976693838_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF4-4s0t55LSDS8SrL1uret9oUPGJaVq6v2hQ8YlpWrq4a5rmC6s7b1CqnJmGXJV4fbh6bTpN7BEXFooFCl9Sff&_nc_ohc=Qj914P6wy10Q7kNvgEgNZx_&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYBR7eQpTgbyc6zjEX48YUCCvTntbAsYhX927TBVh3IPuw&oe=6666498C",
+    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/241052753_1576929135986236_8434002761976693838_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF4-4s0t55LSDS8SrL1uret9oUPGJaVq6v2hQ8YlpWrq4a5rmC6s7b1CqnJmGXJV4fbh6bTpN7BEXFooFCl9Sff&_nc_ohc=4hAMghoIyowQ7kNvgFm8ruG&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYBha7jpA7aW_in5yMwcSdpDClaRnzQ6HaTVEF7ndC5wzw&oe=666FB14A",
     role: "President",
     company: "Shanti Songho",
     date: "Jan 2015 - April 2020",
@@ -112,7 +112,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/327332415_909460053560981_4100596353519037300_n.png?stp=dst-png_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEMs39m2ctnPOg7gItQC1ejT693Oc6F4NJPr3c5zoXg0nqfDUd_9MLeiTqIt_A8SG89l7XnqcDOtUacpjdl_nB5&_nc_ohc=sSO4e5ZTQTUQ7kNvgEwFQM9&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYC8pS20drd0AC5hcKxlyA8W0KUfEdg6W1JUmjfXISsaaA&oe=666668AE",
+    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/327332415_909460053560981_4100596353519037300_n.png?stp=dst-png_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEMs39m2ctnPOg7gItQC1ejT693Oc6F4NJPr3c5zoXg0nqfDUd_9MLeiTqIt_A8SG89l7XnqcDOtUacpjdl_nB5&_nc_ohc=iZ7RFmbjfC8Q7kNvgE3ya8c&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYDQ0E2800lF4rls_tRI6jweORlGFpq5fQ9uPUWHLbPpbA&oe=666FA32E",
     school: "Bangladesh University of Business and Technology (BUBT)",
     date: "Nov 2021 - Present",
     grade: "3.52 CGPA",
@@ -121,7 +121,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/266729191_4381513345309616_2719913221434362599_n.jpg?stp=dst-jpg_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEYw5Eiyi92XDWR9wCY-PEsB_6FhE3s0qcH_oWETezSp9BKWGdzHhmYQMD1IvyIuw_FUXwDUWYft5OYFGflFvuv&_nc_ohc=FKBeiTs2Jf8Q7kNvgHWoSEN&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYDmK_B7AOoHT4Vjj9-ZScUqevM4orLW0KLDhIf4whOMUw&oe=66665B97",
+    img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/266729191_4381513345309616_2719913221434362599_n.jpg?stp=dst-jpg_s200x200&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEYw5Eiyi92XDWR9wCY-PEsB_6FhE3s0qcH_oWETezSp9BKWGdzHhmYQMD1IvyIuw_FUXwDUWYft5OYFGflFvuv&_nc_ohc=OL_oaZU_iAcQ7kNvgEpNom5&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYB-W_gs6yr4yGPILy6FmRF0E39FiM_6nCpYcSlrWA9wdw&oe=666F9617",
     school: "Notre Dame College Mymenshing",
     date: "Dec 2018 - Apr 2020",
     grade: "5.00 GPA",
