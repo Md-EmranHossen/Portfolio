@@ -18,20 +18,7 @@ export const Bio = {
 
 
 
-export const achievements = [
-  {
-    title: "Google Summer of Code 2023",
-    description: "Selected as a participant in Google Summer of Code 2023, contributing to the development of an open-source project.",
-  },
-  {
-    title: "ACM ICPC Regional Qualifier",
-    description: "Advanced to the Regional Qualifier round of the ACM International Collegiate Programming Contest.",
-  },
-  {
-    title: "Hackathon Winner",
-    description: "Won first place in the [Hackathon Name] hackathon, developing a solution for [problem statement].",
-  },
-];
+
 
 
 
@@ -122,16 +109,31 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "https://yt3.googleusercontent.com/ytc/AIdro_mNq41IZKVsToAS5w7OQNymvnSlXmtumc_sDI53uWuEcA=s900-c-k-c0x00ffffff-no-rj",
+    role: "C# Development",
+    company: "Dev Skill",
+    date: "Apr 2024 - Present",
+    desc: "I'm committed to gaining proficiency in both foundational and advanced concepts of C#, empowering myself to tackle complex programming challenges with confidence. Looking forward to leveraging this learning experience to propel my career in software development to new heights!",
+    skills: [
+      "OOP",
+      "Version Control",
+    ],
+    //doc: "https://github.com/Md-EmranHossen",
+
+  },
+  {
+    id: 0,
     img: "https://scontent.fzyl1-1.fna.fbcdn.net/v/t39.30808-1/348347417_245931244754071_8751832192304428398_n.jpg?stp=dst-jpg_p200x200&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGe8Pda0UWctuSJ2OnK92Hi4yrHp9va-97jKsen29r73ujU2PBNaRR8sCpEAkUtFIM5J3pyAd4szn33rT_hPLzg&_nc_ohc=bKMmsSgi-MIQ7kNvgFxfeEx&_nc_ht=scontent.fzyl1-1.fna&cb_e2o_trans=t&oh=00_AYCcm6pWRk3B1J_-AWogxqD-lvWPNyiDT-HpiAJJAUF4yA&oe=666F8E05",
     role: "Executive Committee Member",
     company: "BUBT IT CLUB",
     date: "Dec 2022 - August 2023",
     desc: "As an Executive Member of the BUBT IT Club, I organized major events like ICPC Asia-West Continent 2021 and BUBT Intra-University Programming Contest. Additionally, I facilitated recruitment efforts and volunteered for ICPC, honing my organizational skills and promoting a collaborative club culture.",
     skills: [
+      "LeaderShip",
       "TeamWork",
       "Volunterring",
     ],
-    //doc: "https://github.com/Md-EmranHossen",
+    doc: "https://media.licdn.com/dms/image/D562DAQFjTBO1JQaQmg/profile-treasury-image-shrink_1280_1280/0/1713851375450?e=1718834400&v=beta&t=jOpzwhFUN8OtoP1lvMQ3xh0OGdtgq4BggZy8ck_MIJk",
 
   },
   {
